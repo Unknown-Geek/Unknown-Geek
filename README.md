@@ -12,7 +12,8 @@ Hi, I'm [Shravan](https://github.com/Unknown-Geek)! I'm passionate about coding,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### WakaTime Stats:
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac)](https://wakatime.com/@Mojo_Maniac)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MojoManiac)](https://wakatime.com/@Mojo_Maniac)
+
 ---
 
 ## 📌 Pinned Repositories
