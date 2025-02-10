@@ -10,7 +10,10 @@ Hi, I'm [Shravan](https://github.com/Unknown-Geek)! I'm passionate about coding,
 ![](https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Unknown-Geek&theme=dark&hide_border=false)<br/>
 ### Top Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<div style="display: flex; justify-content: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark&hide_border=false" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark&hide_border=false" />
+</div>
 ### WakaTime Stats:
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac)](https://wakatime.com/@Mojo_Maniac)
 
@@ -33,6 +36,7 @@ Hi, I'm [Shravan](https://github.com/Unknown-Geek)! I'm passionate about coding,
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Unknown-Geek&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Unknown-Geek&icon=5&color=9)](https://visitcount.itsvg.in)
