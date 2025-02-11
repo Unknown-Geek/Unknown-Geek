@@ -3,7 +3,7 @@
 Hi, I'm [Shravan](https://github.com/Unknown-Geek)! I'm passionate about coding, learning, and designing. Always open for new projects.
 
 ---
-### 🎧 Spotify Status
+## 🎧 Spotify Status
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&redirect=true)
 
 
