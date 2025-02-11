@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm [Shravan](https://github.com/Unknown-Geek)! I'm passionate about coding, learning, and designing. Always open for new projects.
+### Hi, I'm [Shravan Nander Pandala](https://github.com/Unknown-Geek)
+I'm passionate about coding, learning, and designing.</br> 
+Always open for new projects. Let's Connect!!
 
 ---
 ## 🎧 Spotify Status
