@@ -21,16 +21,15 @@ Always open for new projects. Let's Connect!!
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>-->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark&hide_border=false" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Unknown-Geek&theme=dark&card_width=450" alt="GitHub Streak" />
+    &nbsp;
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Unknown-Geek&theme=dark&card_width=500" alt="GitHub Streak" />
 </div>
 
 ### Top Languages:
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="300" height="178"/>
-</div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark" width="300" height="172"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="300" height="172"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="350" height="170"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark" width="280" height="172"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="280" height="172"/>
 </div>
 
 ### WakaTime Stats:
