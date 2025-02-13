@@ -12,6 +12,12 @@ Always open for new projects. Let's Connect!!
 ## 📊 GitHub Stats
 
 ### Overall Stats:
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Unknown-Geek/Unknown-Geek/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>-->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark&hide_border=false" />
@@ -76,17 +82,17 @@ Always open for new projects. Let's Connect!!
   <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=pr" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
-  <img src="framer.png" width="50" height="50" title="Framer"/>
-  <img src="spline.png" width="50" height="50" title="Spline"/>
+  <img src="icons/framer.png" width="50" height="50" title="Framer"/>
+  <img src="icons/spline.png" width="50" height="50" title="Spline"/>
   <img src="https://skillicons.dev/icons?i=notion" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=windows" width="50" height="50"/>
     </br> 
-  <img src="numpy.png" width="50" height="50" title="NumPy"/>
-  <img src="sklearn.png" width="50" height="50" title="ScikitLearn"/>
-  <img src="kaggle.png" width="50" height="50" title="Kaggle" />
-  <img src="colab.png" width="50" height="50" title="Colab"/>
+  <img src="icons/numpy.png" width="50" height="50" title="NumPy"/>
+  <img src="icons/sklearn.png" width="50" height="50" title="ScikitLearn"/>
+  <img src="icons/kaggle.png" width="50" height="50" title="Kaggle" />
+  <img src="icons/colab.png" width="50" height="50" title="Colab"/>
   <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/>
