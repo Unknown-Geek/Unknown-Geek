@@ -49,14 +49,52 @@ Always open for new projects. Let's Connect!!
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23ea4c89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/Shravan_Pandala)
 
 ## 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,dart,markdown,bash,html,css,js,gcp,azure,vercel,react,vite,tailwind,flask,flutter,mongodb,mysql,sqlite,illustrator,photoshop,pr,figma,framer,spline,canva"/></br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" height="50" title="Keras"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" title="Keras"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" title="Matplotlib"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" title="ScikitLearn"/>
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,github,git,docker,notion,postman,linux,windows"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dart" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=markdown" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
+    </br>
+  <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50"/>
+    </br>
+  <img src="https://skillicons.dev/icons?i=illustrator" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pr" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/42876?s=280&v=4" width="50" height="50" title="Framer"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGniDh9zBZm5Q/company-logo_200_200/company-logo_200_200/0/1646959598139/splinetool_logo?e=2147483647&v=beta&t=hwUcIp4PSHrs3gB5N7dyio7s-NT3LwDY9--Jz8yWmMY" width="50" height="50" title="Spline"/>
+  <img src="https://skillicons.dev/icons?i=notion" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="50" height="50"/>
+    </br> 
+  <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" width="50" height="50" title="NumPy"/>
+  <img src="https://imgur.com/eTDwqLT" width="50" height="50" title="ScikitLearn"/>
+  <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width="50" height="50" title="Kaggle" />
+  <img src="https://friconix.com/jpg/fi-snsuxx-google-colab.jpg" width="50" height="50" title="Colab"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
+</div>
+
 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=Unknown-Geek&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
