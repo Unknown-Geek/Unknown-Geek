@@ -76,17 +76,17 @@ Always open for new projects. Let's Connect!!
   <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=pr" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/42876?s=280&v=4" width="50" height="50" title="Framer"/>
-  <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGniDh9zBZm5Q/company-logo_200_200/company-logo_200_200/0/1646959598139/splinetool_logo?e=2147483647&v=beta&t=hwUcIp4PSHrs3gB5N7dyio7s-NT3LwDY9--Jz8yWmMY" width="50" height="50" title="Spline"/>
+  <img src="framer.png" width="50" height="50" title="Framer"/>
+  <img src="spline.png" width="50" height="50" title="Spline"/>
   <img src="https://skillicons.dev/icons?i=notion" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=windows" width="50" height="50"/>
     </br> 
-  <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" width="50" height="50" title="NumPy"/>
-  <img src="https://imgur.com/eTDwqLT" width="50" height="50" title="ScikitLearn"/>
-  <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width="50" height="50" title="Kaggle" />
-  <img src="https://friconix.com/jpg/fi-snsuxx-google-colab.jpg" width="50" height="50" title="Colab"/>
+  <img src="numpy.png" width="50" height="50" title="NumPy"/>
+  <img src="sklearn.png" width="50" height="50" title="ScikitLearn"/>
+  <img src="kaggle.png" width="50" height="50" title="Kaggle" />
+  <img src="colab.png" width="50" height="50" title="Colab"/>
   <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/>
