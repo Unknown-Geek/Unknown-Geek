@@ -27,9 +27,9 @@ Always open for new projects. Let's Connect!!
 
 ### Top Languages:
 <div style="display: flex; gap: 50px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="300" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark" width="280" height="172"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="280" height="172"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark" width="400"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="400"/>
 </div>
 
 ### WakaTime Stats:
