@@ -20,7 +20,7 @@ Always open for new projects. Let's Connect!!
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>-->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark&hide_border=false" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark&hide_border=true" />
     &nbsp;
     <img src="https://nirzak-streak-stats.vercel.app/?user=Unknown-Geek&theme=dark&card_width=450" alt="GitHub Streak" />
 </div>
