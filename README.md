@@ -27,7 +27,7 @@ Always open for new projects. Let's Connect!!
 
 ### Top Languages:
 <div style="display: flex; gap: 50px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400" />
 </div>
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap;">
