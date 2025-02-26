@@ -1,4 +1,4 @@
-name: Waka Readme
+name: waka
 
 on:
   # for manual workflow trigger
@@ -9,7 +9,7 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: waka
     runs-on: ubuntu-latest
     steps:
         # this action name
