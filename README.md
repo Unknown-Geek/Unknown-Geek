@@ -36,7 +36,7 @@ Always open for new projects. Let's Connect!!
 </div>
 
 ### WakaTime Stats:
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac)](https://wakatime.com/@Mojo_Maniac)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=0c94b0e2-1755-4a98-ba81-840f4647bd82)](https://wakatime.com/@0c94b0e2-1755-4a98-ba81-840f4647bd82)
 
 ---
 
