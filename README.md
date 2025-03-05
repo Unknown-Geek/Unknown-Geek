@@ -21,22 +21,25 @@ Always open for new projects. Let's Connect!!
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>-->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark&hide_border=true" />
-    &nbsp;
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Unknown-Geek&theme=dark&card_width=450" alt="GitHub Streak" />
+<div style="display: flex;  gap: 5px; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Unknown-Geek&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </div>
+
+<br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Unknown-Geek&theme=dark&card_width=800" alt="GitHub Streak" />
 
 ### Top Languages:
 
-<div style="display: flex; gap: 50px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=yaml,toml,shell,makefile" width="300" />
-</div>
-
-<div style="display: flex; gap: 50px; flex-wrap: wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark" width="300"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="300"/>
+<div style="display: flex; gap: 5px; flex-wrap: wrap; width: 100vw; justify-content: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark" width="400"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="400"/>
 </div>
 
 ### WakaTime Stats:
