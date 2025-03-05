@@ -115,6 +115,8 @@ Always open for new projects. Let's Connect!!
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ShravanPandala) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/shravanpandala)
 
+---
+
 ![](https://komarev.com/ghpvc/?username=Unknown-Geek&color=blue)
 [![wakatime](https://wakatime.com/badge/user/0c94b0e2-1755-4a98-ba81-840f4647bd82.svg)](https://wakatime.com/@0c94b0e2-1755-4a98-ba81-840f4647bd82)
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DUnknown-Geek&longCache=true"/>
