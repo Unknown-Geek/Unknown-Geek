@@ -1,17 +1,20 @@
 # Welcome to My GitHub Profile! 👋
 
 ### Hi, I'm [Shravan Nander Pandala](https://github.com/Unknown-Geek)
-I'm passionate about coding, learning, and designing.</br> 
+
+I'm passionate about coding, learning, and designing.</br>
 Always open for new projects. Let's Connect!!
 
 ---
-## 🎧 Spotify Status
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=E50016)](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&redirect=true)
 
+## 🎧 Spotify Status
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=E50016)](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&redirect=true)
 
 ## 📊 GitHub Stats
 
 ### Overall Stats:
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Unknown-Geek/Unknown-Geek/output/snake.svg" alt="Snake animation" />
@@ -26,8 +29,9 @@ Always open for new projects. Let's Connect!!
 </div>
 
 ### Top Languages:
+
 <div style="display: flex; gap: 50px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-Geek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide=yaml,toml,shell,makefile" width="300" />
 </div>
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap;">
@@ -36,7 +40,9 @@ Always open for new projects. Let's Connect!!
 </div>
 
 ### WakaTime Stats:
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,dockerfile,json,Image,properties,scss,less,stylus,text)
+
 ---
 
 ## 📌 Pinned Repositories
@@ -50,12 +56,14 @@ Always open for new projects. Let's Connect!!
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravanpandala) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravanpandala)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shra1._)
 [![Behance](https://img.shields.io/badge/Behance-%23191919.svg?logo=behance&logoColor=white)](https://www.behance.net/shravanpandala2005)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23ea4c89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/Shravan_Pandala)
 
 ## 💻 Tech Stack:
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
@@ -102,14 +110,15 @@ Always open for new projects. Let's Connect!!
   <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
 </div>
 
-
 ## 🔝 Top Contributed Repo
+
 <img src="https://github-contributor-stats.vercel.app/api?username=Unknown-Geek&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 ---
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ShravanPandala) 
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ShravanPandala)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/shravanpandala)
 
 ---
