@@ -3,7 +3,7 @@
 ### Hi, I'm [Shravan Nander Pandala](https://github.com/Unknown-Geek)
 
 I'm passionate about coding, learning, and designing.</br>
-Always open for new projects. Let's Connect!!
+Always open for new projects. Let's Connect!
 
 ---
 
