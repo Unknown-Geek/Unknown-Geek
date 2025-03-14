@@ -44,7 +44,7 @@ Always open for new projects. Let's Connect!!
 
 ### WakaTime Stats:
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,dockerfile,json,Image,properties,scss,less,stylus,text)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,json,Image,properties,scss,less,stylus,text)
 
 ---
 
