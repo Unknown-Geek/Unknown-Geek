@@ -50,11 +50,14 @@ Always open for new projects. Let's Connect!!
 
 ## 📌 Pinned Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Synthetic-Data-Generator&theme=dracula)](https://github.com/Unknown-Geek/Synthetic-Data-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Blender-Cloud-Renderer&theme=dracula)](https://github.com/Unknown-Geek/Blender-Cloud-Renderer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Automated-Image-Generation-with-Keyword-Tagging&theme=dracula)](https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dracula)](https://github.com/Unknown-Geek/Story-Generator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Hand-Gesture-Detection-Infinite-Runner&theme=dracula)](https://github.com/Unknown-Geek/Hand-Gesture-Detection-Infinite-Runner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Space_Invaders-Remastered&theme=dracula)](https://github.com/Unknown-Geek/Space_Invaders-Remastered)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dracula)](https://github.com/Unknown-Geek/Story-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Hand-Gesture-Detection-Infinite-Runner&theme=dracula)](https://github.com/Unknown-Geek/Hand-Gesture-Detection-Infinite-Runner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=dracula)](https://github.com/Unknown-Geek/Tech-Sprouts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=eetic-website&theme=dracula)](https://github.com/Unknown-Geek/eetic-website)
 
 ---
 
