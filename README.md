@@ -64,6 +64,7 @@ Always open for new projects. Let's Connect!!
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravanpandala)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=Pinterest&logoColor=white)](in.pinterest.com/shravanpandala/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shra1._)
 [![Behance](https://img.shields.io/badge/Behance-%23191919.svg?logo=behance&logoColor=white)](https://www.behance.net/shravanpandala2005)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23ea4c89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/Shravan_Pandala)
