@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-### Hi, I'm [Shravan Nander Pandala](https://github.com/Unknown-Geek)
+### Hi, I'm [Shravan Nander Pandala](shravanpandala.me)
 
 I'm passionate about coding, learning, and designing.</br>
 
