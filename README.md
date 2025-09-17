@@ -22,15 +22,15 @@ Always open for new projects. Let's Connect!!
 
 ###
 <div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100vw; justify-content: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=apprentice" width="400"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Unknown-Geek&theme=apprentice&utcOffset=5" width="400"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark" width="400"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Unknown-Geek&theme=dark&utcOffset=5" width="400"/>
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknown-Geek&theme=apprentice" width="800"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknown-Geek&theme=dark" width="800"/>
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Unknown-Geek&theme=apprentice&hide_border=true&card_width=800" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Unknown-Geek&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" />
 
 ### Top Languages:
 
@@ -41,7 +41,7 @@ Always open for new projects. Let's Connect!!
 
 ### WakaTime Stats:
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,json,Image,properties,scss,less,stylus,text)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac&hide_border=true&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,json,Image,properties,scss,less,stylus,text)
 
 ---
 
