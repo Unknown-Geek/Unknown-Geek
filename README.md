@@ -22,15 +22,7 @@ Always open for new projects. Let's Connect!!
 
 ###
 
-<div style="display: flex;  gap: 5px; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark" />
-  </a>
 
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Unknown-Geek&theme=dark&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
 
 <br>
 
