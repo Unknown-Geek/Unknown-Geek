@@ -21,8 +21,12 @@ Always open for new projects. Let's Connect!!
 <img src="https://raw.githubusercontent.com/Unknown-Geek/Unknown-Geek/output/snake.svg" alt="Snake animation" />
 
 ###
+<div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100vw; justify-content: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=apprentice" width="400"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Unknown-Geek&theme=apprentice&utcOffset=5" width="400"/>
+</div>
 
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unknown-Geek&theme=apprentice" width="800"/>
 
 <br>
 
@@ -43,14 +47,14 @@ Always open for new projects. Let's Connect!!
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Synthetic-Data-Generator&theme=dracula)](https://github.com/Unknown-Geek/Synthetic-Data-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Blender-Cloud-Renderer&theme=dracula)](https://github.com/Unknown-Geek/Blender-Cloud-Renderer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Automated-Image-Generation-with-Keyword-Tagging&theme=dracula)](https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Space_Invaders-Remastered&theme=dracula)](https://github.com/Unknown-Geek/Space_Invaders-Remastered)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dracula)](https://github.com/Unknown-Geek/Story-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Hand-Gesture-Detection-Infinite-Runner&theme=dracula)](https://github.com/Unknown-Geek/Hand-Gesture-Detection-Infinite-Runner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=dracula)](https://github.com/Unknown-Geek/Tech-Sprouts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=eetic-website&theme=dracula)](https://github.com/Unknown-Geek/eetic-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Synthetic-Data-Generator&theme=apprentice)](https://github.com/Unknown-Geek/Synthetic-Data-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Blender-Cloud-Renderer&theme=apprentice)](https://github.com/Unknown-Geek/Blender-Cloud-Renderer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Automated-Image-Generation-with-Keyword-Tagging&theme=apprentice)](https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Space_Invaders-Remastered&theme=apprentice)](https://github.com/Unknown-Geek/Space_Invaders-Remastered)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=apprentice)](https://github.com/Unknown-Geek/Story-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Hand-Gesture-Detection-Infinite-Runner&theme=apprentice)](https://github.com/Unknown-Geek/Hand-Gesture-Detection-Infinite-Runner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=apprentice)](https://github.com/Unknown-Geek/Tech-Sprouts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=eetic-website&theme=apprentice)](https://github.com/Unknown-Geek/eetic-website)
 
 ---
 
