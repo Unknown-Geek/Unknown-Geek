@@ -102,8 +102,8 @@ Always open for new projects. Let's Connect!!
   <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=windows" width="50" height="50"/>
     </br> 
-  <img src="icons/numpy.png" width="50" height="50" title="NumPy"/>
-  <img src="icons/sklearn.png" width="50" height="50" title="ScikitLearn"/>
+  <img src="icons/n8n.png" width="50" height="50" title="n8n"/>
+  <img src="icons/numpy.png" width="50" height="50" title="NumPy"/>  
   <img src="icons/kaggle.png" width="50" height="50" title="Kaggle" />
   <img src="icons/colab.png" width="50" height="50" title="Colab"/>
   <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/>
