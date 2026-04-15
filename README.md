@@ -74,7 +74,7 @@ Always open for new projects. Let's Connect!!
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
-    </br>
+<br />
   <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
@@ -85,7 +85,7 @@ Always open for new projects. Let's Connect!!
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50"/>
-    </br>
+<br />
   <img src="https://skillicons.dev/icons?i=illustrator" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=pr" width="50" height="50"/>
@@ -96,7 +96,7 @@ Always open for new projects. Let's Connect!!
   <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=windows" width="50" height="50"/>
-    </br> 
+<br />
   <img src="icons/n8n.png" width="50" height="50" title="n8n"/>
   <img src="icons/numpy.png" width="50" height="50" title="NumPy"/>  
   <img src="icons/kaggle.png" width="50" height="50" title="Kaggle" />
