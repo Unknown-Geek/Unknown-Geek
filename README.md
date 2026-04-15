@@ -7,12 +7,9 @@
 I'm passionate about coding, learning, and designing.</br>
 Always open for new projects. Let's Connect!!
 
-
 ## 🎧 Spotify Status
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=E50016)](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&redirect=true)
-
-
 
 ## 📊 GitHub Stats & Activity
 
@@ -25,47 +22,43 @@ Always open for new projects. Let's Connect!!
 <br>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%; justify-content: flex-start;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark" width="400" alt="Stats" style="border: 1px solid #30363d; border-radius: 12px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Unknown-Geek&theme=dark&utcOffset=5.5" width="400" alt="Productive Time" style="border: 1px solid #30363d; border-radius: 12px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark" width="400" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Unknown-Geek&theme=dark&utcOffset=5.5" width="400" alt="Productive Time" />
 </div>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Unknown-Geek&theme=dark&hide_border=true&card_width=810" alt="GitHub Streak" style="border: 1px solid #30363d; border-radius: 12px;" />
+<img src="https://streak-stats.demolab.com/?user=Unknown-Geek&theme=dark&card_width=800&border_color=30363d&border_radius=12" alt="GitHub Streak" />
 
 ### Activity Graph:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Unknown-Geek&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="800" style="border: 1px solid #30363d; border-radius: 12px;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Unknown-Geek&theme=react-dark&bg_color=0D1117&border_radius=12&border_color=30363d" alt="Activity Graph" width="800" />
 
 ### Top Languages:
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap; width: 100%; justify-content: flex-start; align-items: flex-start;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark&title_color=ffffff" width="400" style="border: 1px solid #30363d; border-radius: 12px;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="400" style="border: 1px solid #30363d; border-radius: 12px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark&title_color=ffffff" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="400" />
 </div>
 
 ### WakaTime Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac&hide_border=true&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,json,Image,properties,scss,less,stylus,text" alt="WakaTime stats" style="border: 1px solid #30363d; border-radius: 12px;" />
-
-
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,json,Image,properties,scss,less,stylus,text&border_color=30363d&border_radius=12)
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Unknown-Geek/IEEE-SB-CET-Official-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=IEEE-SB-CET-Official-Website&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Mini-Project-Cerberus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Mini-Project-Cerberus&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/CODERECET-3.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=CODERECET-3.0&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Blender-Cloud-Renderer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Blender-Cloud-Renderer&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Internships-Informer-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Internships-Informer-Bot&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Dreamstime-AutoUploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Dreamstime-AutoUploader&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/CODERECET-2.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=CODERECET-2.0&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Pinterest-Uploader-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Pinterest-Uploader-Bot&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Tech-Sprouts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Story-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Space_Invaders-Remastered"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Space_Invaders-Remastered&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-<a href="https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Automated-Image-Generation-with-Keyword-Tagging&theme=dark&hide_border=true" alt="Repo" style="border: 1px solid #30363d; border-radius: 12px;"/></a>
-
-
+<a href="https://github.com/Unknown-Geek/IEEE-SB-CET-Official-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=IEEE-SB-CET-Official-Website&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Mini-Project-Cerberus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Mini-Project-Cerberus&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/CODERECET-3.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=CODERECET-3.0&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Blender-Cloud-Renderer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Blender-Cloud-Renderer&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Internships-Informer-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Internships-Informer-Bot&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Dreamstime-AutoUploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Dreamstime-AutoUploader&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/CODERECET-2.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=CODERECET-2.0&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Pinterest-Uploader-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Pinterest-Uploader-Bot&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Tech-Sprouts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Story-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Space_Invaders-Remastered"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Space_Invaders-Remastered&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Automated-Image-Generation-with-Keyword-Tagging&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
 
 ## 💻 Tech Stack:
 
@@ -122,7 +115,6 @@ Always open for new projects. Let's Connect!!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shra1._)
 [![Behance](https://img.shields.io/badge/Behance-%23191919.svg?logo=behance&logoColor=white)](https://www.behance.net/shravanpandala2005)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23ea4c89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/Shravan_Pandala)
-
 
 ## 💰 Support
 
