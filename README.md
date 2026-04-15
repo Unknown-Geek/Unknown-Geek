@@ -22,13 +22,14 @@ Always open for new projects. Let's Connect!!
 <br>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%; justify-content: flex-start;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark" width="400" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Unknown-Geek&theme=dark&utcOffset=5.5" width="400" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark&v=2" width="395" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Unknown-Geek&theme=dark&utcOffset=5.5&v=2" width="395" alt="Productive Time" />
 </div>
 
 <br>
-
-<img src="https://streak-stats.demolab.com/?user=Unknown-Geek&theme=dark&card_width=800&border_color=30363d&border_radius=12" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark&show_icons=true&hide_border=false&border_color=30363d&border_radius=12&v=2" width="800" alt="Stats" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=Unknown-Geek&theme=dark&card_width=800&border_color=30363d&border_radius=12&border_width=5" alt="GitHub Streak" />
 
 ### Activity Graph:
 
@@ -36,9 +37,9 @@ Always open for new projects. Let's Connect!!
 
 ### Top Languages:
 
-<div style="display: flex; gap: 5px; flex-wrap: wrap; width: 100%; justify-content: flex-start; align-items: flex-start;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark&title_color=ffffff" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark" width="400" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%; justify-content: flex-start; align-items: flex-start;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Unknown-Geek&theme=dark&title_color=ffffff&v=2" width="395" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unknown-Geek&theme=dark&v=2" width="395" />
 </div>
 
 ### WakaTime Stats:
