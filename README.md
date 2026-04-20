@@ -63,14 +63,64 @@ Always open for new projects. Let's Connect!!
 
 ## 💻 Tech Stack:
 
+<!-- <div align="centre">
+  <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/> 
+  <img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dart" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=markdown" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
+<br />
+  <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50"/>
+<br />
+  <img src="https://skillicons.dev/icons?i=illustrator" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pr" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
+  <img src="icons/framer.png" width="50" height="50" title="Framer"/>
+  <img src="icons/spline.png" width="50" height="50" title="Spline"/>
+  <img src="https://skillicons.dev/icons?i=notion" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="50" height="50"/>
+<br />
+  <img src="icons/n8n.png" width="50" height="50" title="n8n"/>
+  <img src="icons/numpy.png" width="50" height="50" title="NumPy"/>  
+  <img src="icons/kaggle.png" width="50" height="50" title="Kaggle" />
+  <img src="icons/colab.png" width="50" height="50" title="Colab"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
+</div> -->
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/><img src="https://skillicons.dev/icons?i=c" width="50" height="50"/><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><img src="https://skillicons.dev/icons?i=java" width="50" height="50"/><img src="https://skillicons.dev/icons?i=dart" width="50" height="50"/><img src="https://skillicons.dev/icons?i=markdown" width="50" height="50"/><img src="https://skillicons.dev/icons?i=bash" width="50" height="50"/><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50"/><img src="https://skillicons.dev/icons?i=vercel" width="50" height="50"/><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><img src="https://skillicons.dev/icons?i=vite" width="50" height="50"/><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><img src="https://skillicons.dev/icons?i=flask" width="50" height="50"/><img src="https://skillicons.dev/icons?i=flutter" width="50" height="50"/><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=illustrator" width="50" height="50"/><img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50"/><img src="https://skillicons.dev/icons?i=pr" width="50" height="50"/><img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/><img src="icons/framer.png" width="50" height="50" title="Framer"/><img src="icons/spline.png" width="50" height="50" title="Spline"/><img src="https://skillicons.dev/icons?i=notion" width="50" height="50"/><img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/><img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/><img src="https://skillicons.dev/icons?i=windows" width="50" height="50"/>
-  <br/>
-  <img src="icons/n8n.png" width="50" height="50" title="n8n"/><img src="icons/numpy.png" width="50" height="50" title="NumPy"/><img src="icons/kaggle.png" width="50" height="50" title="Kaggle"/><img src="icons/colab.png" width="50" height="50" title="Colab"/><img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
+  
+  ![Languages](https://skillicons.dev/icons?i=py,c,cpp,java,dart,markdown,bash,html,css,js)
+  ![Frameworks & Cloud](https://skillicons.dev/icons?i=gcp,vercel,react,vite,tailwind,flask,flutter,mongodb,mysql,sqlite)  
+  ![Design & Tools](https://skillicons.dev/icons?i=notion,postman,linux,windows,illustrator,photoshop,pr,figma)
+  &nbsp;<img src="icons/framer.png" width="48" height="48"/>
+  &nbsp;<img src="icons/spline.png" width="48" height="48"/>  
+  ![AI & DevOps](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,github,git,docker)
+  &nbsp;<img src="icons/n8n.png" width="48" height="48"/>
+  &nbsp;<img src="icons/numpy.png" width="48" height="48"/>
+  &nbsp;<img src="icons/kaggle.png" width="48" height="48"/>
+  &nbsp;<img src="icons/colab.png" width="48" height="48"/>
 </div>
 
 ## 🌐 Socials & Contact:
