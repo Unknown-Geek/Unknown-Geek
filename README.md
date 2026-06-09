@@ -22,14 +22,13 @@ Always open for new projects. Let's Connect!!
 <br>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%; justify-content: flex-start;">
-  <img src="https://github-profile-summary-cards-sepia.vercel.app/api/cards/stats?username=Unknown-Geek&theme=dark&v=2" width="395" alt="Stats" />
-  <img src="https://github-profile-summary-cards-sepia.vercel.app/api/cards/productive-time?username=Unknown-Geek&theme=dark&utcOffset=5.5&v=2" width="395" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards-sepia.vercel.app/api/cards/profile-details?username=Unknown-Geek&theme=dark" width="800" alt="Productive Time" />
 </div>
 
 <br>
-<img src="https://github-readme-stats-five-chi-22.vercel.app/api?username=Unknown-Geek&theme=dark&show_icons=true&hide_border=false&border_color=30363d&border_radius=12&v=2" width="800" alt="Stats" />
+<img src="https://github-readme-stats-five-chi-22.vercel.app/api?username=Unknown-Geek&theme=dark&show_icons=true&hide_border=true&border_color=30363d&border_radius=12&v=2" width="800" alt="Stats" />
 <br>
-<img src="https://streak-stats.demolab.com/?user=Unknown-Geek&theme=dark&card_width=800&border_color=30363d&border_radius=12&border_width=5" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Unknown-Geek&theme=dark&card_width=800&border_color=0C1116&border_radius=12&border_width=1" alt="GitHub Streak" />
 
 ### Activity Graph:
 
