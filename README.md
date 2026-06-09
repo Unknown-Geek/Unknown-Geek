@@ -27,7 +27,7 @@ Always open for new projects. Let's Connect!!
 </div>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Unknown-Geek&theme=dark&show_icons=true&hide_border=false&border_color=30363d&border_radius=12&v=2" width="800" alt="Stats" />
+<img src="https://github-readme-stats-five-chi-22.vercel.app/api?username=Unknown-Geek&theme=dark&show_icons=true&hide_border=false&border_color=30363d&border_radius=12&v=2" width="800" alt="Stats" />
 <br>
 <img src="https://streak-stats.demolab.com/?user=Unknown-Geek&theme=dark&card_width=800&border_color=30363d&border_radius=12&border_width=5" alt="GitHub Streak" />
 
@@ -44,70 +44,26 @@ Always open for new projects. Let's Connect!!
 
 ### WakaTime Stats:
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mojo_Maniac&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,json,Image,properties,scss,less,stylus,text&border_color=30363d&border_radius=12)
+![WakaTime stats](https://github-readme-stats-five-chi-22.vercel.app/api/wakatime?username=Mojo_Maniac&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,json,Image,properties,scss,less,stylus,text&border_color=30363d&border_radius=12)
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Unknown-Geek/IEEE-SB-CET-Official-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=IEEE-SB-CET-Official-Website&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Mini-Project-Cerberus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Mini-Project-Cerberus&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/CODERECET-3.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=CODERECET-3.0&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Blender-Cloud-Renderer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Blender-Cloud-Renderer&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Internships-Informer-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Internships-Informer-Bot&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Dreamstime-AutoUploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Dreamstime-AutoUploader&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/CODERECET-2.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=CODERECET-2.0&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Pinterest-Uploader-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Pinterest-Uploader-Bot&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Tech-Sprouts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Story-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Space_Invaders-Remastered"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Space_Invaders-Remastered&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
-<a href="https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Unknown-Geek&repo=Automated-Image-Generation-with-Keyword-Tagging&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/MCP-Server_Open-vSwitch"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=MCP-Server_Open-vSwitch&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Mini-Project-Cerberus"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Mini-Project-Cerberus&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/ResumeFlow"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=ResumeFlow&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/InternFlow"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=InternFlow&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Automated-Image-Generation-with-Keyword-Tagging"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Automated-Image-Generation-with-Keyword-Tagging&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Blender-Cloud-Renderer"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Blender-Cloud-Renderer&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Pinterest-Uploader-Bot"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Pinterest-Uploader-Bot&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Dreamstime-AutoUploader"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Dreamstime-AutoUploader&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Hand-Gesture-Detection-Infinite-Runner"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Hand-Gesture-Detection-Infinite-Runner&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Space_Invaders-Remastered"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Space_Invaders-Remastered&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/CODERECET-2.0"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=CODERECET-2.0&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/CODERECET-3.0"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=CODERECET-3.0&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Story-Generator"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
+<a href="https://github.com/Unknown-Geek/Tech-Sprouts"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
 
 ## 💻 Tech Stack:
-
-<!-- <div align="centre">
-  <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/> 
-  <img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=dart" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=markdown" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/>
-<br />
-  <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=flask" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50"/>
-<br />
-  <img src="https://skillicons.dev/icons?i=illustrator" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pr" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
-  <img src="icons/framer.png" width="50" height="50" title="Framer"/>
-  <img src="icons/spline.png" width="50" height="50" title="Spline"/>
-  <img src="https://skillicons.dev/icons?i=notion" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=windows" width="50" height="50"/>
-<br />
-  <img src="icons/n8n.png" width="50" height="50" title="n8n"/>
-  <img src="icons/numpy.png" width="50" height="50" title="NumPy"/>  
-  <img src="icons/kaggle.png" width="50" height="50" title="Kaggle" />
-  <img src="icons/colab.png" width="50" height="50" title="Colab"/>
-  <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
-</div> -->
 
 <div align="left">
   
