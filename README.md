@@ -1,17 +1,21 @@
-# Welcome to My GitHub Profile! 👋
-
+<!--
 <a href="https://shravanpandala.me">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=false&vCenter=true&width=800&lines=Hi%2C+I'm+Shravan+Nander+Pandala;Building+Autonomous+AI+Agents;UI%2FUX+%26+Figma+Enthusiast;CSE+Student+%40+CET" alt="Typing SVG" />
 </a>
 
 I'm passionate about coding, learning, and designing.</br>
 Always open for new projects. Let's Connect!!
+-->
 
-## 🎧 Spotify Status
+<img width="2000" alt="ascii" src="https://github.com/user-attachments/assets/3512b9ce-b7d5-4fb3-842f-6643e5522364" style="max-width: 100%; height: auto; border-radius: 16px;" />
+<br>
+<br>
+
+## Spotify Status
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=E50016&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=5vm060a920538n4jolat2rjo8&redirect=true)
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 ### Overall Stats:
 
@@ -45,7 +49,7 @@ Always open for new projects. Let's Connect!!
 
 ![WakaTime stats](https://github-readme-stats-five-chi-22.vercel.app/api/wakatime?username=Mojo_Maniac&layout=compact&theme=dark&hide=yaml,toml,shell,makefile,cmake,batchfile,json,Image,properties,scss,less,stylus,text&border_color=30363d&border_radius=12)
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
 <a href="https://github.com/Unknown-Geek/MCP-Server_Open-vSwitch"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=MCP-Server_Open-vSwitch&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
 <a href="https://github.com/Unknown-Geek/Mini-Project-Cerberus"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Mini-Project-Cerberus&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
@@ -62,7 +66,7 @@ Always open for new projects. Let's Connect!!
 <a href="https://github.com/Unknown-Geek/Story-Generator"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Story-Generator&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
 <a href="https://github.com/Unknown-Geek/Tech-Sprouts"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 <div align="left">
   
@@ -78,7 +82,7 @@ Always open for new projects. Let's Connect!!
   &nbsp;<img src="icons/colab.png" width="48" height="48"/>
 </div>
 
-## 🌐 Socials & Contact:
+## Socials & Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravanpandala)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/shravanpandala/)
@@ -86,7 +90,7 @@ Always open for new projects. Let's Connect!!
 [![Behance](https://img.shields.io/badge/Behance-%23191919.svg?logo=behance&logoColor=white)](https://www.behance.net/shravanpandala2005)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23ea4c89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/Shravan_Pandala)
 
-## 💰 Support
+## Support
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ShravanPandala)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/shravanpandala)
@@ -100,3 +104,4 @@ Always open for new projects. Let's Connect!!
   </a>
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Unknown-Geek?label=Followers&style=social"/>
 </div>
+
