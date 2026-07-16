@@ -67,10 +67,9 @@ Always open for new projects. Let's Connect!!
 <a href="https://github.com/Unknown-Geek/Tech-Sprouts"><img src="https://github-readme-stats-five-chi-22.vercel.app/api/pin/?username=Unknown-Geek&repo=Tech-Sprouts&theme=dark&border_color=30363d&border_radius=12" alt="Repo" /></a>
 
 ## Tech Stack:
-
 <div align="left">
   
-  ![Languages](https://skillicons.dev/icons?i=py,c,cpp,java,dart,markdown,bash,html,css,js)
+  ![Languages](https://skillicons.dev/icons?i=py,c,java,dart,html,css,js,markdown,bash,latex)
   ![Frameworks & Cloud](https://skillicons.dev/icons?i=gcp,vercel,react,vite,tailwind,flask,flutter,mongodb,mysql,sqlite)  
   ![Design & Tools](https://skillicons.dev/icons?i=notion,postman,linux,windows,illustrator,photoshop,pr,figma)
   &nbsp;<img src="icons/framer.png" width="48" height="48"/>
@@ -81,7 +80,6 @@ Always open for new projects. Let's Connect!!
   &nbsp;<img src="icons/kaggle.png" width="48" height="48"/>
   &nbsp;<img src="icons/colab.png" width="48" height="48"/>
 </div>
-
 ## Socials & Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravanpandala)
