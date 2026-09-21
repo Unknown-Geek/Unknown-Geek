@@ -7,9 +7,10 @@ I'm passionate about coding, learning, and designing.</br>
 Always open for new projects. Let's Connect!!
 -->
 
-<img width="2000" alt="ascii" src="https://github.com/user-attachments/assets/3512b9ce-b7d5-4fb3-842f-6643e5522364" style="max-width: 100%; height: auto; border-radius: 16px;" />
+<img width="2000" alt="ascii" src="https://github.com/user-attachments/assets/fbf2c4bd-0673-414f-af48-8df8f8632ced" style="max-width: 100%; height: auto; border-radius: 16px;" />
 <br>
 <br>
+
 
 ## Spotify Status
 
