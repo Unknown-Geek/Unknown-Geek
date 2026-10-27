@@ -81,6 +81,7 @@ Always open for new projects. Let's Connect!!
   &nbsp;<img src="icons/kaggle.png" width="48" height="48"/>
   &nbsp;<img src="icons/colab.png" width="48" height="48"/>
 </div>
+
 ## Socials & Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravanpandala)
